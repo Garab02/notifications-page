@@ -21,6 +21,13 @@ body {
     flex-direction: row;
     justify-content: space-between;
 }
+.marker {
+    color: rgb(11, 11, 151);
+}
+.marker:hover {
+    cursor: pointer;
+    color: rgb(69, 69, 246);
+}
 .unread, .read {
     display: flex;
     flex-direction: row;
