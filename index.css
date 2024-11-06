@@ -55,6 +55,10 @@ img {
     border: 2px solid hsl(211, 68%, 94%);
     padding: 10px;
 }
+.msg:hover {
+    background-color: hsl(211, 68%, 94%);
+    cursor: pointer;
+}
 
 .num {
     background-color: hsl(238, 93%, 47%);
